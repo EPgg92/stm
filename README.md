@@ -7,9 +7,12 @@ Le cours STM est données par M. [Laurent Moccozet](https://www.unige.ch/gsem/en
 
 Tu te trouves sur la page d’accueil des projets que je souhaite réaliser pour le cours STM.
 Pour pouvoir collaborer avec moi:
- 1\. Il va falloir que tu te crées un compte sur [Github](https://github.com/join?source=header-home). Prend un nom utilisateur court tu devras souvent le taper.
- 2\. Il faudra que tu me dises ton nom d'utilisateur à ce moment sur messenger par exemple.
- 3\. Télécharger le dossier collaboratif stm sur ta machine. Je te propose d'utiliser [GitHub Desktop](https://desktop.github.com/)
+
+ 1. Il va falloir que tu te crées un compte sur [Github](https://github.com/join?source=header-home). Prend un nom utilisateur court tu devras souvent le taper.
+
+2.  Il faudra que tu me dises ton nom d'utilisateur à ce moment sur messenger par exemple.
+
+3.  Télécharger le dossier collaboratif stm sur ta machine. Je te propose d'utiliser [GitHub Desktop](https://desktop.github.com/)
 
 ## Utilisation de Github Desktop
 
