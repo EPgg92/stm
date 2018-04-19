@@ -2,6 +2,7 @@
 
 <p align="center"> <img src="Deckstop_icons/icon.png" alt="game_icon" height="200" width="200">
 </p>
+
 ## Les consignes
 
 Le projet Unity consiste à développer un environnement multimédia en 2D ou 3D interactif de type jeu vidéo.
