@@ -4,7 +4,7 @@
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
-serious_game/Library/
+serious_game/*
 Temp
 serious_game/ProjectSettings/
 serious_game/Temp/
