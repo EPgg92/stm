@@ -1,11 +1,5 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/Assets/AssetStoreTools*
-serious_game/*
-Temp
+serious_game/Assets
+serious_game/Library
 serious_game/ProjectSettings/
 serious_game/Temp/
 # Visual Studio 2015 cache directory
