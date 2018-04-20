@@ -2,6 +2,7 @@ serious_game/Assets
 serious_game/Library
 serious_game/ProjectSettings/
 serious_game/Temp/
+serious_game/.collabignore
 # Visual Studio 2015 cache directory
 /.vs/
 
