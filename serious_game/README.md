@@ -1,6 +1,6 @@
-# <p align="center">Projet Unity</p>
+# Projet Unity
 
-<p align="center"> <img src="https://github.com/EPgg92/stm/blob/master/serious_game/Deckstop_icons/icon.png" alt="game_icon" height="200" width="200">
+<p align="center"> <img src="Deckstop_icons/icon.png" alt="game_icon" height="200" width="200">
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ Ce rogue est un tour par tour, c'est-à-dire que tant que vous n'effectuez pas v
 
 La difficulté sera progressive est constante elle se base uniquement sur le nombre d'ennemies qui vont spawn au début de chaque salle.
 
-<p align="center"> <img src="https://github.com/EPgg92/stm/blob/master/serious_game/img/difficulty.png" width=400>
+<p align="center"> <img src="img/difficulty.png" width=400>
 </p>
 
 <p align="center" style="font-weight: bold;">
