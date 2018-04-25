@@ -34,8 +34,8 @@ La difficulté sera progressive est constante elle se base uniquement sur le nom
 <p align="center"> <img src="img/difficulty.png" width=400>
 </p>
 
-<p align="center">
-**Courbe d'augmentation du nombre d’ennemies**
+<p align="center" style="font-weight: bold;">
+Courbe d'augmentation du nombre d’ennemies
 </p>
 
 Ainsi on aura 1 ennemie à partir du niveau 2, puis 2 à partir du niveau 4, puis 3 à partir du niveau 8, et finalement 4 à partir du niveau 16.
