@@ -1,28 +1,39 @@
-# Projet Unity
+Descriptif du jeu prévu (le jeu pourra évoluer d’ici l’étape finale) : principe du jeu, gameplay, règles d’adaptivité et structure du jeu prévue : scènes, gameobjects et scripts (en indiquant leur rôle et leurs fonctionnalités).
 
-<p align="center"> <img src="Deckstop_icons/icon.png" alt="game_icon" height="200" width="200">
-</p>
+# <center>Projet Unity</center>
 
-## Les consignes
+<center> <img src="Deckstop_icons/icon.png" alt="game_icon" height="200" width="200">
+</center>
 
-Le projet Unity consiste à développer un environnement multimédia en 2D ou 3D interactif de type jeu vidéo.
-
-Le but est de proposer un prototype d'environnement d'apprentissage basé sur les mécanismes de jeu.
-
-### Les contraintes
-
--   Le jeu doit avoir une vocation éducative, pour les enfants, pour les adultes, pour les personnes âgées dans tous les domaines: culture, sciences...
--   Le jeu doit être adaptatif, c'est à dire que son fonctionnement doit s'adapter aux performances du joueur et devenir plus facile si le joueur a du mal ou plus compliqué si le joueur a trop de facilité.
--   L'outil de développement à utiliser est Unity  Il s'agit d'un moteur de jeu multi-plateforme.
-
-### Le rendu final
-
-Le rendu du projet consiste en un rapport exposant le but de l'application et sa structure ainsi que le projet Unity développé.
-Puis, le projet donnera lieu à une courte présentation par groupe qui sera organisée pendant la session d'examen.
+<center>
+  Groupe 30: <br>
+  Seleshi Mahelet, Bachelor GSEM<br>
+  Poggio Enzo, Master Informatique pour sciences humaines <br>
+  Mail: [Mahelet.Seleshi,Enzo.Poggio]@etu.unige.ch
+</center>
 
 ## Notre proposition
 
-Pour répondre aux exigences des consignes imposer nous souhaitons réaliser un Rogue-Like 2D avec le moteur de jeu Unity qui sera destiné à apprendre à additionné des chiffres.
+Pour répondre aux exigences des consignes, nous souhaitons réaliser un Rogue-Like 2D avec le moteur de jeu Unity qui sera destiné à apprendre à additionné des chiffres (1 à 9). Nous adressons donc notre jeu à des enfants devant apprendre à calculer rapidement.
+
+### But du jeu
+
+Notre je prends place dans un univers post-apocalyptique où apparemment notre protagoniste est chassé par des Zombies. Pour aider à leur échapper le joueurs doit faire l'addition des deux tuiles spéciales sur la grille pour trouver la bonne sortie; puis trouver le chemin vers la bonne sortie qui évite au plus les Zombies et qui permet de ramasser le plus de nourriture.
+
+### Gameplay
+
+La nourriture sera notre vie. On commence une partie avec un capital de 100 de nourriture. On peut en perdre en se faisant attaquer par les zombies (-10 ou -20) ou bien en se déplaçant (-1) ou bien encore en prenant une mauvaise sortie (int(food/2) + 1). Le joueur pourra regagner de la vie s'il ramasse certain pick up: des sodas (+20) ou des pommes (+10).
+
+Si le protagoniste n'a plus de nourriture il meurt et c'est la fin du jeu. La partie est perdue. Au bout d'un certain nombre de niveau (une vingtaine) le jeux se finira . La partie est gagnée!
+
+Ce rogue est un tour par tour, c'est-à-dire que tant que vous n'effectuez pas votre action les ennemies n'effectue pas la leur. Le joueur à deux types d'action: se déplacer dans une direction cardinal et casser un mur qui gène le passage.
+
+### Nos règles d’adaptivité
+
+La difficulté sera progressive est constante elle se base uniquement sur le nombre d'ennemies qui vont spawn au début de chaque salle.
+
+<center> <img src="img/difficulty.png" height=70% width=400%>
+</center>
 
 ### Ressources utilisés
 
@@ -30,14 +41,6 @@ Nous allons utiliser un assortiment d'assets et de tutoriels proposés sur l'Ass
 
 -   [2D Roguelike tutorial](https://unity3d.com/fr/learn/tutorials/s/2d-roguelike-tutorial)
 -   [Tutoriels Vidéos](https://www.youtube.com/watch?v=Fdcnt2-Jf4w&list=PLX2vGYjWbI0SKsNH5Rkpxvxr1dPE0Lw8F)
-
-### But du jeu
-
-Notre je prends place dans un univers post-apocalyptique où apparemment notre protagoniste est chassé par des Zombies. Pour aider à leur échapper le joueurs doit faire l'addition des deux tuiles spéciales sur la grille pour trouver la bonne sorti; puis trouver le chemin vers la bonne sorti qui évite au plus les Zombies et qui permet de ramasser le plus de nourriture.
-
-La nourriture sera notre vie. On peut en perdre en se faisant attaquer par les zombies (-10) ou bine en se déplaçant (-1) ou bien encore en prenant une mauvaise sortie (int(food/2) + 1). Si le protagoniste n'a plus de nourriture il meurt et c'est la fin du jeu (La partie est perdu).
-
-Au bout d'un certain nombre de niveau le jeux se finira (Environ 20 à décider). La partie sera gagner!
 
 ## ToDo:
 
