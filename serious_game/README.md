@@ -32,6 +32,9 @@ Ce rogue est un tour par tour, c'est-à-dire que tant que vous n'effectuez pas v
 La difficulté sera progressive est constante elle se base uniquement sur le nombre d'ennemies qui vont spawn au début de chaque salle.
 
 <p align="center"> <img src="img/difficulty.png" width=400>
+</p>
+
+<p align="center">
 **Courbe d'augmentation du nombre d’ennemies**
 </p>
 
