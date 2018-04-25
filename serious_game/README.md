@@ -1,15 +1,15 @@
-# <center>Projet Unity</center>
+# <p align="center">Projet Unity</p>
 
-<center> <img src="Deckstop_icons/icon.png" alt="game_icon" height="200" width="200">
-</center>
+<p align="center"> <img src="Deckstop_icons/icon.png" alt="game_icon" height="200" width="200">
+</p>
 
-<center>
+<p align="center">
   Groupe 30: <br>
   Seleshi Mahelet, Bachelor GSEM<br>
   Poggio Enzo, Master Informatique pour sciences humaines <br>
   Mail: [Mahelet.Seleshi,Enzo.Poggio]@etu.unige.ch <br>
   GithuB: [https://github.com/EPgg92/stm](https://github.com/EPgg92/stm)
-</center>
+</p>
 
 ## Notre proposition
 
@@ -31,9 +31,9 @@ Ce rogue est un tour par tour, c'est-à-dire que tant que vous n'effectuez pas v
 
 La difficulté sera progressive est constante elle se base uniquement sur le nombre d'ennemies qui vont spawn au début de chaque salle.
 
-<center> <img src="img/difficulty.png" width=400>
+<p align="center"> <img src="img/difficulty.png" width=400>
 **Courbe d'augmentation du nombre d’ennemies**
-</center>
+</p>
 
 Ainsi on aura 1 ennemie à partir du niveau 2, puis 2 à partir du niveau 4, puis 3 à partir du niveau 8, et finalement 4 à partir du niveau 16.
 
