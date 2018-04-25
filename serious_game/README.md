@@ -44,7 +44,7 @@ Au bout d'un certain nombre de niveau le jeux se finira (Environ 20 à décider)
 | What to do ?                                               | Who done this ? | When was it done ? | Remarques                                                  |
 | ---------------------------------------------------------- | :-------------: | :----------------: | ---------------------------------------------------------- |
 | [Project Introduction](https://youtu.be/Fdcnt2-Jf4w)       |       Enzo      |     2018.04.12     | Il suffit de télécharger le repo github pour y avoir accès |
-| [Animations](https://youtu.be/mmyr2l9dxoU)                 |                 |                    |                                                            |
+| [Animations](https://youtu.be/mmyr2l9dxoU)                 |       Enzo      |     2018.04.12     | RAS                                                        |
 | [Tile Prefabs](https://youtu.be/3xqUo--8d0s)               |                 |                    |                                                            |
 | [Board Manager](https://youtu.be/bvvaqAbpPjc)              |                 |                    |                                                            |
 | [Game Manager](https://youtu.be/7NYXBUWmFvU)               |                 |                    |                                                            |
